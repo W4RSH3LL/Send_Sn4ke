@@ -29,3 +29,4 @@ Make sure to configure the settings before using the tool.
 git clone https://github.com/W4RSH3LL/Send_Sn4ke.git
 sendSnakeGUI > dist > main.exe
 ```
+![image](https://github.com/W4RSH3LL/Send_Sn4ke/assets/129652925/ec7c2f8b-2230-4e2e-9bc1-8cec98ea76c1)
